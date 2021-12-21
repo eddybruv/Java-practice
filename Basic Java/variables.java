@@ -1,5 +1,3 @@
-// package Basic Java;
-
 public class variables {
    String name = "Edwin Ajong";
    int age = 20;
